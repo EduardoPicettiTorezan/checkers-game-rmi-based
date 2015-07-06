@@ -1,0 +1,18 @@
+C:\Users\Diego\Desktop\Trabalho_RMI\TicketServer\bin\Debug\TicketServer.exe
+C:\Users\Diego\Desktop\Trabalho_RMI\TicketServer\bin\Debug\TicketServer.pdb
+C:\Users\Diego\Desktop\Trabalho_RMI\TicketServer\bin\Debug\Classes.dll
+C:\Users\Diego\Desktop\Trabalho_RMI\TicketServer\bin\Debug\Classes.pdb
+C:\Users\Diego\Desktop\Trabalho_RMI\TicketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Trabalho_RMI\TicketServer\obj\x86\Debug\TicketServer.exe
+C:\Users\Diego\Desktop\Trabalho_RMI\TicketServer\obj\x86\Debug\TicketServer.pdb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\bin\Debug\TicketServer.exe
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\bin\Debug\TicketServer.pdb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\bin\Debug\Classes.dll
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\bin\Debug\Classes.pdb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\obj\x86\Debug\TicketServer.exe
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\obj\x86\Debug\TicketServer.pdb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\bin\Debug\TicketServer.exe.manifest
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\bin\Debug\TicketServer.application
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\obj\x86\Debug\TicketServer.exe.manifest
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\obj\x86\Debug\TicketServer.application

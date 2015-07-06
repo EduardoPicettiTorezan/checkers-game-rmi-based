@@ -1,0 +1,2 @@
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamasContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamasContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,40 @@
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\damas_tabuleiro.xnb
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\peca_branca.xnb
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\peca_preta.xnb
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\JogoDeDamas.exe
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\JogoDeDamas.pdb
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Classes.dll
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\TicketServer.exe
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Classes.pdb
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\TicketServer.pdb
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\JogoDeDamas.MenuInicial.resources
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\JogoDeDamas.exe
+C:\Users\Diego\Desktop\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\JogoDeDamas.pdb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\damas_tabuleiro.xnb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\peca_branca.xnb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\peca_preta.xnb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\JogoDeDamas.exe
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\JogoDeDamas.pdb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Classes.dll
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\TicketServer.exe
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Classes.pdb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\TicketServer.pdb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\JogoDeDamas.MenuInicial.resources
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\JogoDeDamas.exe
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\JogoDeDamas.pdb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\JogoDeDamas.exe.manifest
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\JogoDeDamas.application
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\JogoDeDamas.exe.manifest
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\obj\x86\Debug\JogoDeDamas.application

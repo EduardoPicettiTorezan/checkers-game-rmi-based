@@ -1,0 +1,5 @@
+C:\Users\txg\documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\bin\Release\TicketServer.exe
+C:\Users\txg\documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\bin\Release\TicketServer.pdb
+C:\Users\txg\documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\txg\documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\obj\x86\Release\TicketServer.exe
+C:\Users\txg\documents\visual studio 2010\Projects\Trabalho_RMI\TicketServer\obj\x86\Release\TicketServer.pdb

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>damas_tabuleiro.PNG</Source>
+      <Name>damas_tabuleiro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\damas_tabuleiro.xnb</Output>
+      <Time>2012-11-22T20:48:18.756247-02:00</Time>
+    </Item>
+    <Item>
+      <Source>peca_branca.png</Source>
+      <Name>peca_branca</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\peca_branca.xnb</Output>
+      <Time>2012-11-22T20:48:18.7592472-02:00</Time>
+    </Item>
+    <Item>
+      <Source>peca_preta.png</Source>
+      <Name>peca_preta</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\peca_preta.xnb</Output>
+      <Time>2012-11-22T20:48:18.7622473-02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2012-09-23T17:20:32.0266547-03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2012-10-16T20:12:09.0866345-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamasContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamasContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\JogoDeDamas\JogoDeDamas\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-08-18T20:43:05.3503941-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

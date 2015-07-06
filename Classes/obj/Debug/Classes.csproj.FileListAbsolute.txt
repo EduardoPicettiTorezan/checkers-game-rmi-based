@@ -1,0 +1,10 @@
+C:\Users\Diego\Desktop\Trabalho_RMI\Classes\bin\Debug\Classes.dll
+C:\Users\Diego\Desktop\Trabalho_RMI\Classes\bin\Debug\Classes.pdb
+C:\Users\Diego\Desktop\Trabalho_RMI\Classes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Trabalho_RMI\Classes\obj\Debug\Classes.dll
+C:\Users\Diego\Desktop\Trabalho_RMI\Classes\obj\Debug\Classes.pdb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\Classes\bin\Debug\Classes.dll
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\Classes\bin\Debug\Classes.pdb
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\Classes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\Classes\obj\Debug\Classes.dll
+C:\Users\txg\Documents\visual studio 2010\Projects\Trabalho_RMI\Classes\obj\Debug\Classes.pdb
